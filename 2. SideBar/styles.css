@@ -65,8 +65,8 @@ span {
 }
 
 #sidebar.active {
-    min-width: 80px;
-    max-width: 80px;
+    min-width: 120px;
+    max-width: 120px;
     text-align: center;
 }
 
@@ -185,7 +185,6 @@ a.article:hover {
     background: #6d7fcc !important;
     color: #fff !important;
 }
-
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
@@ -203,10 +202,10 @@ a.article:hover {
 
 @media (max-width: 768px) {
     #sidebar {
-        min-width: 80px;
-        max-width: 80px;
+        min-width: 120px;
+        max-width: 120px;
         text-align: center;
-        margin-left: -80px !important;
+        margin-left: -120px !important;
     }
     .dropdown-toggle::after {
         top: auto;
