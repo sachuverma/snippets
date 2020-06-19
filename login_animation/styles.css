@@ -1,0 +1,76 @@
+*{
+  margin: 0; padding: 0;
+  border: 0; outline: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #eeeeee;
+}
+
+.field{
+  position: relative;
+  margin-top: 30vh;
+  width: 250px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 2px solid rgb(0,162,255);
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.field input{
+  width: 75%;
+  height: 100%;
+  padding: 0 15px 0 10px;
+  color: rgb(0,109,170);
+  font-size: 18px;
+  font-weight: 500;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.field .fa-eye,
+.field .fa-eye-slash{
+  cursor: pointer;
+  font-size: 18px;
+  color: rgb(0,162,255);
+  transform: translateX(-10px);
+}
+
+.field .fa-arrow-right,
+.field .fa-check,
+.field .fa-times{
+  position: absolute;
+  right: 0;
+  width: 15%;
+  text-align: right;
+  height: 100%;
+  padding-right: 8px;
+  line-height: 40px;
+  color: #fff;
+  font-size: 22px;
+  cursor: pointer;
+  transition: .4s;
+  background-color: rgb(0,162,255);
+  
+}
+
+.field span p{
+  color: #fff;
+  transform: translateY(-20px) translateX(10px);
+  top: 0;
+  font-weight: 500;
+  letter-spacing: .5px;
+  pointer-events: none;
+  opacity: 0;
+  transition-delay: .5s;
+}
+
