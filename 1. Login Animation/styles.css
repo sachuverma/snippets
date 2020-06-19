@@ -67,6 +67,7 @@ body{
   color: #fff;
   transform: translateY(-20px) translateX(10px);
   top: 0;
+  line-height: 0.5px;
   font-weight: 500;
   letter-spacing: .5px;
   pointer-events: none;
