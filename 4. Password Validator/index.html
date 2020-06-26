@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Password Validator</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <input type="password" class="password" placeholder="Enter Your Password" oninput="textChange()" required>
+    <i class="fa fa-eye" id="show_hide" onclick="showHide()"></i>
+    <p id="capital">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-check"></i>
+      <span>Capital Letters</span>
+    </p>
+    <p id="char">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-check"></i>
+      <span>Special Characters</span>
+    </p>
+    <p id="num">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-check"></i>
+      <span>Using Numbers</span>
+    </p>
+    <p id="more8">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-check"></i>
+      <span>8+ Characters</span>
+    </p>
+
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
