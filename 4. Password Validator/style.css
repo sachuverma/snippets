@@ -10,23 +10,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  animation: colorchange 30s linear 1s infinite;
-  -webkit-animation: colorchange 30s linear 0s infinite alternate; /* Chrome and Safari */
-}
-
-@keyframes colorchange
-{
-  0%   {background: #A71E4A;}
-  10%   {background: #EE3425;}
-  20%   {background: #F99B20;}
-  30%   {background: #F8BC18;}
-  40%  {background: #F3EC3A;}
-  50%  {background: #63B247;}
-  60%  {background: #1695CE;}
-  70%  {background: #3E5FAD;}
-  80%  {background: #483290;}
-  90%  {background: #483290;}
-  100% {background: #A71E4A;}
+  background-color: #3E5FAD;
 }
 
 .container{
