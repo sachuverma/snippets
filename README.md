@@ -9,7 +9,7 @@
 ![3-Loading Animation](demo/3_loading_animation.gif)
 
 ### 4. Password Validator [Test here](https://sachinverma53121.github.io/snippets/4.%20Password%20Validator/index.html)
-![4-Password Validator](demo/4_password_validation.gif)
+![4-Password Validator](demo/4_password_validator.gif)
 
 ### 5. Glowing Box [Test here](https://sachinverma53121.github.io/snippets/5.%20Glowing%20Box/index.html)
 ![5-Glowing Box](demo/5_glowing_box.gif)
