@@ -16,17 +16,17 @@ body{
 
 @keyframes colorchange
 {
-  0%   {background: rgba(255, 0, 0, 0.868);}
-  10%   {background: rgba(255, 68, 0, 0.834);}
-  20%   {background: rgba(255, 255, 0, 0.821);}
-  30%   {background: rgba(153, 205, 50, 0.882);}
-  40%  {background: rgba(0, 128, 0, 0.879);}
-  50%  {background: rgba(135, 207, 235, 0.886);}
-  60%  {background: rgba(0, 0, 255, 0.866);}
-  70%  {background: rgba(255, 192, 203, 0.838);}
-  80%  {background: rgba(238, 130, 238, 0.807);}
-  90%  {background: rgba(128, 0, 128, 0.845);}
-  100% {background: rgba(255, 0, 0, 0.873);}
+  0%   {background: #A71E4A;}
+  10%   {background: #EE3425;}
+  20%   {background: #F99B20;}
+  30%   {background: #F8BC18;}
+  40%  {background: #F3EC3A;}
+  50%  {background: #63B247;}
+  60%  {background: #1695CE;}
+  70%  {background: #3E5FAD;}
+  80%  {background: #483290;}
+  90%  {background: #483290;}
+  100% {background: #A71E4A;}
 }
 
 .container{
