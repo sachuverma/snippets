@@ -13,3 +13,6 @@
 
 ### 5. Glowing Box [Test here](https://sachinverma53121.github.io/snippets/5.%20Glowing%20Box/index.html)
 ![5-Glowing Box](demo/5_glowing_box.gif)
+
+### 6. Solar Eclipse [Test here](https://sachinverma53121.github.io/snippets/6.%20Solar%20Eclipse/index.html)
+![6-Solar Eclipse](demo/6_solar_eclipse.gif)
