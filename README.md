@@ -16,3 +16,6 @@
 
 ### 6. Solar Eclipse [Test here](https://sachinverma53121.github.io/snippets/6.%20Solar%20Eclipse/index.html)
 ![6-Solar Eclipse](demo/6_solar_eclipse.gif)
+
+### 7. Loading Circle [Test here](https://sachinverma53121.github.io/snippets/7.%20Loading%20Circle/index.html)
+![7-Loading Circle](demo/7_loading_circle.gif)
