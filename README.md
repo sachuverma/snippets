@@ -31,3 +31,7 @@
 ### 8. Mega Menu [Test here](https://sachuverma.github.io/snippets/8.%20Mega%20Menu/index.html)
 
 ![8-Mega menu](demo/8_mega_menu.gif)
+
+### 9. Horizontal Scroll Pages [Test here](https://sachuverma.github.io/snippets/9.%20Horizontal%20Scroll%20Section/index.html)
+
+![9-Horizontal scroll](demo/9_horizontal_scroll.gif)
