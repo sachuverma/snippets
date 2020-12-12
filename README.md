@@ -35,3 +35,7 @@
 ### 9. Horizontal Scroll Pages [Test here](https://sachuverma.github.io/snippets/9.%20Horizontal%20Scroll%20Section/index.html)
 
 ![9-Horizontal scroll](demo/9_horizontal_scroll.gif)
+
+### 10. Date Input [Test here](https://sachuverma.github.io/snippets/10.%20Date%20Input/index.html)
+
+![10-Date input](demo/10_date_input.gif)
