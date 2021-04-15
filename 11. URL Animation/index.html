@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sachuverma</title>
+</head>
+<body>
+  <script>
+    const emojies = ['🌕','🌖','🌗','🌘','🌚','🌒','🌓','🌔'];
+    const animateURL = () => {
+      window.location.hash = emojies[Math.floor((Date.now()/100) % emojies.length)]
+      setTimeout(animateURL, 50)
+    }
+    animateURL();
+  </script>
+  <br>
+  <h1>URL ANIMATION</h1>
+</body>
+</html>

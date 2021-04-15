@@ -39,3 +39,7 @@
 ### 10. Date Input
 
 ![10-Date input](demo/10_date_input.gif)
+
+### 11. URL Animation [Test here](https://sachuverma.github.io/snippets/11.%20URL%20Animation/index.html)
+
+![11- url animation](demo/11_url_animation.gif)
